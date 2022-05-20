@@ -1,6 +1,9 @@
-# CSE303 project implementation
+# Stark_Cryptography_Project
 
-Cryptography project on Succint non-interactive proofs for verifiable computing using STARK systems.
+Succint non-interactive proofs for verifiable computing using STARK systems - project for the class CSE303.
+
+Final course report: Report.pdf
+Implementation files: Implementation.ipynb and Merkle.py
 
 Sources:
 - https://starkware.co/developers-community/stark101-onlinecourse/
